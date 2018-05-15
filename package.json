@@ -1,0 +1,23 @@
+{
+  "name": "clova-sf-workplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "lodash": "^4.17.5",
+    "morgan": "^1.9.0",
+    "nodejs-base64-encode": "0.0.2",
+    "uuid": "^3.2.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
